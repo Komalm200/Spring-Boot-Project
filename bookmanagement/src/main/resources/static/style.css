@@ -1,0 +1,34 @@
+ /* add new  book */
+ 
+ .home {
+     background-image: url("bookphoto.jpg");
+     background-size: cover;
+     background-attachment: fixed;
+ }
+
+ #image {
+
+     align-items: left;
+     max-width: 20%;
+     height: auto;
+     /* background-image: url("register\ image.png"); */
+ }
+
+ .container {
+     display: flex;
+     flex-direction: row;
+     align-items: center;
+
+ }
+
+ .btn {
+     background-color: #8d4545;
+     margin: 20px;
+     color: white;
+     height: 50px;
+     width: 150px;
+     font-size: 1.2rem;
+     border-radius: 15px;
+ }
+
+  
